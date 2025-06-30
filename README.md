@@ -25,7 +25,7 @@ To run this project locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/username/exotic-indonesia.git
+git clone https://github.com/Sangqovin/exotic-indonesia.git
 cd exotic-indonesia
 
 # Install dependencies
