@@ -29,7 +29,7 @@ git clone https://github.com/Sangqovin/exotic-indonesia.git
 cd exotic-indonesia
 
 # Install dependencies
-npm install
+pnpm install
 
 # Start the development server
-npm run dev
+pnpm run dev
